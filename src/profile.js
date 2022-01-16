@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Hi all, I'm Surya",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / React Native / Nodejs and some other cool libraries and frameworks.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -32,7 +32,7 @@ const skillsBar = [
     faClass: "fab fa-html5",
   },
   {
-    name: "CSS3",
+    name: "CSS",
     // svg: '',
     faClass: "fab fa-css3",
   },
@@ -42,10 +42,11 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
-    name: "SASS",
+    name: "React",
     // svg: '',
-    faClass: "fab fa-sass",
+    faClass: "fab fa-react",
   },
+
   {
     name: "Node",
     // svg: '',
@@ -57,17 +58,17 @@ const skillsBar = [
     faClass: "fab fa-python",
   },
   {
-    name: "Java",
+    name: "Nuxt",
     // svg: '',
-    faClass: "fab fa-java",
+    faClass: "fab fa-vuejs",
   },
   {
-    name: "PHP",
+    name: "React Native",
     // svg: '',
-    faClass: "fab fa-php",
+    faClass: "fab fa-react",
   },
   {
-    name: "Database",
+    name: "MongoDB",
     // svg: '',
     faClass: "fas fa-database",
   },
@@ -128,7 +129,7 @@ const projects = [
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Miscellaneouss";
 const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
@@ -162,11 +163,11 @@ const contact = {
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
+  github: "https://github.com/surya-2811",
   facebook: "https://facebook.com",
-  // twitter: "https://twitter.com",
+  twitter: "https://twitter.com",
   instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://www.linkedin.com/in/surya-umapathi",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here
